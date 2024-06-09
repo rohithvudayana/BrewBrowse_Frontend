@@ -1,0 +1,13 @@
+.breweries-container {
+    color: #333;
+    background-color: lightblue;
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 25px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
