@@ -1,4 +1,4 @@
-# MoEngage
+# MoEngage Frontend
 
 
 ### Backend Repository
@@ -51,5 +51,4 @@ https://brew-browse-frontend.vercel.app/
 ```bash
 https://github.com/rohithvudayana/BrewBrowse_Frontend.git
 ```
-###### Note : Could you kindly replace all instances of "http://localhost:3003" with the deployed link "https://menu-management-i7vf.onrender.com" in the Postman documentation? Thank you!
 
