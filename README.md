@@ -1,5 +1,11 @@
 # MoEngage
 
+
+## Backend Repository
+```bash
+https://github.com/rohithvudayana/BrewBrowse.git
+```
+
 ### Getting started
 ```bash
 https://github.com/rohithvudayana/BrewBrowse_Frontend.git
